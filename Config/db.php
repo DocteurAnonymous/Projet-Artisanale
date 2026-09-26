@@ -5,7 +5,7 @@
         $server = "localhost";   
         $username = "root";      
         $password = "";          
-        $dbname = "gestion_artisan"; 
+        $dbname = "projet_artisanale"; 
         $port = "3306";   
         
         try {
